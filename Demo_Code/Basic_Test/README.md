@@ -1,4 +1,4 @@
-##BASIC_TEST.INO##
+#BASIC_TEST.INO
 
 This code basically checks that every element of the system is working.
 **First,** check that the servo is rocking the beam freely
